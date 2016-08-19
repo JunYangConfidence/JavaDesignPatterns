@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FactoryPattern</string>
+    <string name="tv_name">工厂模式</string>
+</resources>
