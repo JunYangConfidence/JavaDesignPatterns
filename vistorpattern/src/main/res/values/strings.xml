@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VistorPattern</string>
+    <string name="tv_name">访问者模式</string>
+</resources>
