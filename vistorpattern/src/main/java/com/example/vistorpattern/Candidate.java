@@ -2,6 +2,7 @@ package com.example.vistorpattern;
 
 /**
  * Created by yangjun on 2016/8/29.
+ * hahah
  */
 public abstract class Candidate {
     private String name;

@@ -3,6 +3,8 @@ package com.example.vistorpattern;
 import com.example.logutils.LogFactory;
 
 /**
+ * Created by **.
+ * 具体访问者
  * Created by yangjun on 2016/6/7.
  */
 public class Vistor implements IVistor {
