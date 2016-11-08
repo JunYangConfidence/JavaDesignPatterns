@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by yangjun on 2016/8/29.
+ * Created by **.
+ * 相当于objectStructure
  */
 public class CandidateList {
     private List<Candidate> list = new ArrayList<Candidate>();

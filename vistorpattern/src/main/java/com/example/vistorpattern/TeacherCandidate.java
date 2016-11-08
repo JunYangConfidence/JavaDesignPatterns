@@ -1,7 +1,8 @@
 package com.example.vistorpattern;
 
 /**
- * Created by yangjun on 2016/8/29.
+ * Created by **
+ * 教师候选者
  */
 public class TeacherCandidate extends Candidate {
     // 教学反馈分

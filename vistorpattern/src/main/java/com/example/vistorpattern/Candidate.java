@@ -1,7 +1,8 @@
 package com.example.vistorpattern;
 
 /**
- * Created by yangjun on 2016/8/29.
+ * Created by **.
+ * 候选者抽象类
  */
 public abstract class Candidate {
     private String name;
