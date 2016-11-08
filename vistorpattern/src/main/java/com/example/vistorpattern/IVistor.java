@@ -2,6 +2,7 @@ package com.example.vistorpattern;
 
 /**
  * Created by yangjun on 2016/6/7.
+ * 访问者抽象类
  */
 public interface IVistor {
     public void vistor(CommonEmployee commonEmployee);

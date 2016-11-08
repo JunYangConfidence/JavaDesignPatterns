@@ -1,7 +1,8 @@
 package com.example.vistorpattern;
 
 /**
- * Created by yangjun on 2016/8/29.
+ * Created by **
+ * 学生候选者
  */
 public class StudentCandidate extends Candidate {
     // 平均成绩
